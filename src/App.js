@@ -8,7 +8,7 @@ function App() {
         <img src='/img/camila1.png'/>
         <p>
           Te <code>amo !</code> 
-        </p>
+           </p>
        
       </header>
     </div>
